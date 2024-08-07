@@ -1,16 +1,14 @@
 # shopli
 
-A new Flutter project.
+An Flutter app that enables you manage your shopping list.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+The Shopli is made using futtter framework and Firebase is used fr managing backend.
 
-A few resources to get you started if this is your first Flutter project:
+## Images
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1723031060](https://github.com/user-attachments/assets/1df613d0-656f-471e-9ad7-a50e9838a743)   
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1723031056](https://github.com/user-attachments/assets/ba66787a-495a-4bbe-896c-d2bfb84f242a)
+
