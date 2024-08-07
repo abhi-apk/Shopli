@@ -1,4 +1,4 @@
-# shopli
+# ShopLi
 
 An Flutter app that enables you manage your shopping list.
 
